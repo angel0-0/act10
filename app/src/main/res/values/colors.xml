@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="asparragus">#6BAA75</color>
+    <color name="purple">#3C1B43</color>
+    <color name="laiblue">#1C6E8C</color>
+    <color name="moradillo">#8789C0</color>
+    <color name="naranjilla">#D56F3E</color>
 </resources>
