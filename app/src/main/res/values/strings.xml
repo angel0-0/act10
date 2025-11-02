@@ -1,18 +1,6 @@
 <resources>
     <string name="app_name">act10</string>
 
-    <!-- Navigation Buttons -->
-    <string name="previous_button">Anterior</string>
-    <string name="next_button">Siguiente</string>
-
-    <!-- Image Card Placeholders -->
-    <string name="image_title_placeholder">Título de la Imagen</string>
-    <string name="image_description_placeholder">Descripción de la imagen.</string>
-
-    <!-- Dynamic Text Formats -->
-    <string name="progress_indicator_format">[%1$d de %2$d]</string>
-
-    <!-- Image Titles -->
     <string-array name="image_titles">
         <item>Kami 1</item>
         <item>Kami 2</item>
@@ -28,7 +16,6 @@
         <item>Kami 12</item>
     </string-array>
 
-    <!-- Image Descriptions -->
     <string-array name="image_descriptions">
         <item>Es mi gata.</item>
         <item>Es muy linda.</item>
@@ -43,5 +30,10 @@
         <item>Esta también.</item>
         <item>Preciosota.</item>
     </string-array>
-
+    <string name="image_title_placeholder">Image Title</string>
+    <string name="image_description_placeholder">Image Description</string>
+    <string name="previous_button">Anterior</string>
+    <string name="next_button">Siguiente</string>
+    <string name="menu_button">Menú</string>
+    <string name="progress_indicator_format">%1$d / %2$d</string>
 </resources>
