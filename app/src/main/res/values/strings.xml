@@ -1,3 +1,39 @@
 <resources>
-    <string name="app_name">act 10</string>
+    <string name="app_name">act10</string>
+
+    <string-array name="image_titles">
+        <item>Kami 1</item>
+        <item>Kami 2</item>
+        <item>Kami 3</item>
+        <item>Kami 4</item>
+        <item>Kami 5</item>
+        <item>Kami 6</item>
+        <item>Kami 7</item>
+        <item>Kami 8</item>
+        <item>Kami 9</item>
+        <item>Kami 10</item>
+        <item>Kami 11</item>
+        <item>Kami 12</item>
+    </string-array>
+
+    <string-array name="image_descriptions">
+        <item>Es mi gata.</item>
+        <item>Es muy linda.</item>
+        <item>La quiero mucho.</item>
+        <item>Mirala nomás.</item>
+        <item>Que guapa.</item>
+        <item>Hermosa.</item>
+        <item>Cariñosa.</item>
+        <item>Enviada de dios.</item>
+        <item>Dormidita.</item>
+        <item>Se cortó la foto >:(.</item>
+        <item>Esta también.</item>
+        <item>Preciosota.</item>
+    </string-array>
+    <string name="image_title_placeholder">Image Title</string>
+    <string name="image_description_placeholder">Image Description</string>
+    <string name="previous_button">Anterior</string>
+    <string name="next_button">Siguiente</string>
+    <string name="menu_button">Menú</string>
+    <string name="progress_indicator_format">%1$d / %2$d</string>
 </resources>
